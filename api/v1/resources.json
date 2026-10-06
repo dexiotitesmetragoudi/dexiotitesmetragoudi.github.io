@@ -1,0 +1,339 @@
+{
+  "schema_version": "1.0",
+  "publisher": "Δεξιότητες με Τραγούδι",
+  "site_url": "https://dexiotitesmetragoudi.github.io",
+  "language": "el",
+  "count": 7,
+  "updated_at": "2026-10-03T14:00:13+00:00",
+  "usage": {
+    "cost": "free",
+    "stated_scope": "home_and_classroom_use",
+    "redistribution_license": null,
+    "note": "Free for home and classroom use. No new permission for republication, modification, resale or model training is granted by this catalogue. Contact the publisher for uses not covered by the existing site terms.",
+    "contact_email": "softskillskids1@gmail.com"
+  },
+  "safety": {
+    "adult_led": true,
+    "preview_before_use": true,
+    "ai_assisted_creative_production": true,
+    "clinically_validated_programme": false,
+    "accepts_child_personal_data": false
+  },
+  "resources": [
+    {
+      "id": "mporo-na-se-akouso",
+      "language": "el",
+      "title": "Μπορώ να σε ακούσω",
+      "skill": "Ενσυναίσθηση",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τρυφερό τραγούδι για την ενσυναίσθηση! 💗 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν ότι δεν χρειάζεται να ξέρουμε ακριβώς πώς νιώθει ένας φίλος — μπορούμε όμως να τον ακούσουμε και να μείνουμε δίπλα του. Το «Μπορώ να σε ακούσω» είναι ένα τραγούδι για παιδιά που διδάσκει ενσυναίσθηση και φροντίδα: να προσέχουμε όταν ένας φίλος είναι λυπημένος, θυμωμένος ή ανήσυχος, να ρωτάμε «Πώς αισθάνεσαι εσύ;» και να ακούμε την απάντηση με όλη μας την προσοχή. Γιατί όταν νοιαζόμαστε, ερχόμαστε πιο κοντά. Με μεγάλους στίχους-καραόκε στην οθόνη, ιδανικό για παιδιά 3–8 ετών, στο σπίτι, στο νηπιαγωγείο, στο δημοτικό και στα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-10-03T14:00:13+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-se-akouso/",
+      "video_url": "https://www.youtube.com/watch?v=En9jHOypWoY",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-se-akouso/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-se-akouso/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-se-akouso/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-se-akouso/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε έναν φίλο που είναι λυπημένος — και τι μπορείς να κάνεις για να νιώσει καλύτερα.",
+      "discussion_prompts": [
+        "Πώς καταλαβαίνεις ότι ένας φίλος σου είναι λυπημένος;",
+        "Τι μπορείς να του πεις ή να κάνεις;",
+        "Πότε κάποιος σε άκουσε και ένιωσες καλύτερα;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-se-akouso/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-se-akouso/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "mporo-na-to-lyso",
+      "language": "el",
+      "title": "Μπορώ να το λύσω!",
+      "skill": "Επίλυση προβλημάτων",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα χαρούμενο τραγούδι για την επίλυση προβλημάτων! 🧩 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν τα βήματα για να λύνουν κάθε μικρό πρόβλημα: Σταματώ! Κοιτάζω! Σκέφτομαι! Δοκιμάζω! Ελέγχω! Το «Μπορώ να το λύσω!» είναι ένα τραγούδι για παιδιά που διδάσκει ήρεμη, βήμα-βήμα σκέψη: ένα κομμάτι παζλ που δεν ταιριάζει, μια γέφυρα από τουβλάκια που πέφτει, ένα αεροπλανάκι που δεν πετά — και κάθε φορά βρίσκουμε λύση! Γιατί ένα πρόβλημα μπορεί να έχει πολλές λύσεις. Με μεγάλους στίχους-καραόκε στην οθόνη, ιδανικό για παιδιά 3–8 ετών, στο σπίτι, στο νηπιαγωγείο, στο δημοτικό και στα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-10-02T14:00:27+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-to-lyso/",
+      "video_url": "https://www.youtube.com/watch?v=RzZa1goEq2E",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-to-lyso/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-to-lyso/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-to-lyso/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-to-lyso/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε ένα πρόβλημα — και την έξυπνη ιδέα σου για να το λύσεις!",
+      "discussion_prompts": [
+        "Ποιο μικρό πρόβλημα έλυσες σήμερα;",
+        "Ποια είναι τα βήματα όταν κάτι δεν πάει καλά;",
+        "Αν η πρώτη ιδέα δεν πετύχει, τι κάνουμε;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-to-lyso/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-to-lyso/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "xanaprospatho",
+      "language": "el",
+      "title": "Ξαναπροσπαθώ!",
+      "skill": "Επιμονή",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα χαρούμενο τραγούδι για την επιμονή! 💪 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν ότι όταν κάτι δεν πετυχαίνει με την πρώτη, δεν πειράζει: παίρνουμε ανάσα, κάνουμε ένα σχέδιο και ξαναπροσπαθούμε! Το «Ξαναπροσπαθώ!» είναι ένα τραγούδι για παιδιά που διδάσκει επιμονή, υπομονή και θετική στάση απέναντι στα λάθη. Ένας πύργος που γκρεμίζεται, ένα ποδήλατο που δεν ισορροπεί ακόμα — κάθε λάθος κάτι μας μαθαίνει. Γιατί «δεν μπορώ ακόμα» δεν σημαίνει «δεν μπορώ». Με μεγάλους στίχους-καραόκε στην οθόνη, ιδανικό για παιδιά 3–8 ετών, στο σπίτι, στο νηπιαγωγείο, στο δημοτικό και στα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-10-01T14:00:12+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/xanaprospatho/",
+      "video_url": "https://www.youtube.com/watch?v=Xf606rsTHh0",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/xanaprospatho/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/xanaprospatho/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/xanaprospatho/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/xanaprospatho/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε κάτι που ήταν δύσκολο για σένα — και συνέχισες να προσπαθείς!",
+      "discussion_prompts": [
+        "Τι σου φάνηκε δύσκολο στην αρχή και τώρα το καταφέρνεις;",
+        "Τι κάνεις όταν κάτι δεν σου βγαίνει;",
+        "Ποιον μπορείς να ρωτήσεις όταν χρειάζεσαι βοήθεια;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/xanaprospatho/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/xanaprospatho/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "ta-synaisthimata-mou",
+      "language": "el",
+      "title": "Τα Συναισθήματά Μου",
+      "skill": "Συναισθήματα",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τρυφερό τραγούδι για τα συναισθήματα! 💜 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν ότι κάθε συναίσθημα έχει ένα όνομα — χαρά, λύπη, θυμός, ανησυχία, ενθουσιασμός, ηρεμία — και ότι όλα είναι σημαντικά. Το «Τα Συναισθήματά Μου» είναι ένα τραγούδι για παιδιά που τα βοηθά να αναγνωρίζουν, να ονομάζουν και να εκφράζουν αυτό που νιώθουν, και να ηρεμούν με μια βαθιά ανάσα. Κάθε συναίσθημα έχει το χρώμα του: κίτρινη χαρά, μπλε λύπη, κόκκινος θυμός, μωβ ανησυχία, πορτοκαλί ενθουσιασμός, πράσινη ηρεμία. Με μεγάλους στίχους-καραόκε στην οθόνη, ιδανικό για παιδιά 3–8 ετών, στο σπίτι, στο νηπιαγωγείο, στο δημοτικό και στα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-09-30T14:00:37+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-synaisthimata-mou/",
+      "video_url": "https://www.youtube.com/watch?v=u4R3GytEWLA",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-synaisthimata-mou/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-synaisthimata-mou/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-synaisthimata-mou/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-synaisthimata-mou/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε το προσωπάκι σου σήμερα. Πώς νιώθεις; Χαρά, λύπη, θυμό, ανησυχία, ενθουσιασμό ή ηρεμία;",
+      "discussion_prompts": [
+        "Πώς νιώθεις σήμερα; Τι χρώμα έχει αυτό που νιώθεις;",
+        "Τι σε βοηθά όταν είσαι λυπημένος ή θυμωμένος;",
+        "Σε ποιον μπορείς να πεις πώς νιώθεις;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-synaisthimata-mou/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-synaisthimata-mou/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "se-akouo",
+      "language": "el",
+      "title": "Σε Ακούω",
+      "skill": "Ακρόαση",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα χαρούμενο τραγούδι για την ακρόαση! 👂 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν πώς να ακούν πραγματικά τους φίλους τους: μάτια που κοιτάζουν, αυτιά που ακούν, χείλη που περιμένουν! Το «Σε ακούω» είναι ένα τραγούδι για παιδιά που διδάσκει την ενεργητική ακρόαση: να κοιτάμε αυτόν που μιλά, να μην τον διακόπτουμε, να περιμένουμε τη σειρά μας και να ρωτάμε ευγενικά όταν δεν καταλάβαμε. Με μεγάλους στίχους-καραόκε και κινήσεις που μιμούνται τα παιδιά, ιδανικό για την ώρα του κύκλου στο νηπιαγωγείο, το δημοτικό, τα Εργαστήρια Δεξιοτήτων και το σπίτι (3–8 ετών).",
+      "published_at": "2026-09-29T14:00:02+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/se-akouo/",
+      "video_url": "https://www.youtube.com/watch?v=UfympoGmIr8",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/se-akouo/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/se-akouo/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/se-akouo/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/se-akouo/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε κάποιον που αγαπάς να σου λέει μια ιστορία. Τι σου είπε;",
+      "discussion_prompts": [
+        "Πώς δείχνουμε σε κάποιον ότι τον ακούμε;",
+        "Τι κάνουμε όταν θέλουμε να μιλήσουμε αλλά μιλάει κάποιος άλλος;",
+        "Τι λέμε όταν δεν καταλάβαμε κάτι;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/se-akouo/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/se-akouo/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "i-kalosyni-lampei",
+      "language": "el",
+      "title": "Η Καλοσύνη Λάμπει",
+      "skill": "Καλοσύνη",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τρυφερό τραγούδι για την καλοσύνη! 🌈 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν ότι ένα χαμόγελο, μια καλή κουβέντα και μια μικρή βοήθεια μπορούν να αλλάξουν τη μέρα κάποιου! Το «Η καλοσύνη λάμπει» είναι ένα τραγούδι για παιδιά που διδάσκει ευγένεια, ενσυναίσθηση και αλληλοβοήθεια: να πλησιάζουμε όποιον είναι μόνος, να δίνουμε ένα χέρι βοήθειας, να λέμε «ευχαριστώ» και «παρακαλώ». Με μεγάλους στίχους-καραόκε στην οθόνη, ιδανικό για παιδιά 3–8 ετών, στο σπίτι, στο νηπιαγωγείο, στο δημοτικό και στα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-09-28T14:00:23+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/i-kalosyni-lampei/",
+      "video_url": "https://www.youtube.com/watch?v=6m2XXc64DC0",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/i-kalosyni-lampei/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/i-kalosyni-lampei/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/i-kalosyni-lampei/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/i-kalosyni-lampei/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε κάτι καλό που μπορείς να κάνεις σήμερα για κάποιον.",
+      "discussion_prompts": [
+        "Ποια καλή πράξη έκανες σήμερα;",
+        "Τι μπορείς να πεις σε ένα παιδί που κάθεται μόνο του;",
+        "Πώς νιώθεις όταν κάποιος είναι ευγενικός μαζί σου;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/i-kalosyni-lampei/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/i-kalosyni-lampei/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "mazi-ta-kataferno",
+      "language": "el",
+      "title": "Μαζί τα Καταφέρνουμε",
+      "skill": "Ομαδικότητα",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα χαρούμενο τραγούδι για την ομαδικότητα! 🤝 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν ότι όταν βοηθάμε ο ένας τον άλλον, τα καταφέρνουμε πολύ καλύτερα! Το «Μαζί τα καταφέρνουμε» είναι ένα τραγούδι για παιδιά που διδάσκει συνεργασία, αλληλοβοήθεια και μοίρασμα. Τα παιδιά χτίζουν μαζί, ζωγραφίζουν μαζί και ανακαλύπτουν ότι οι διαφορετικές ιδέες, όταν ενωθούν, γίνονται «μαγικές». Με μεγάλους στίχους-καραόκε στην οθόνη, ιδανικό για παιδιά 3–8 ετών, στο σπίτι, στο νηπιαγωγείο, στο δημοτικό και στα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-09-26T22:16:45+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/mazi-ta-kataferno/",
+      "video_url": "https://www.youtube.com/watch?v=5c4ByeehA1s",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/mazi-ta-kataferno/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/mazi-ta-kataferno/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/mazi-ta-kataferno/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/mazi-ta-kataferno/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε κάτι που έφτιαξες μαζί με έναν φίλο σου.",
+      "discussion_prompts": [
+        "Πότε βοήθησες κάποιον σήμερα;",
+        "Τι μπορούμε να φτιάξουμε μαζί που δεν μπορούμε μόνοι μας;",
+        "Τι κάνουμε όταν ο καθένας έχει διαφορετική ιδέα;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/mazi-ta-kataferno/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/mazi-ta-kataferno/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    }
+  ]
+}
