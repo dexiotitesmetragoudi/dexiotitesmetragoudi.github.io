@@ -3,8 +3,8 @@
   "publisher": "Δεξιότητες με Τραγούδι",
   "site_url": "https://dexiotitesmetragoudi.github.io",
   "language": "el",
-  "count": 7,
-  "updated_at": "2026-10-03T14:00:13+00:00",
+  "count": 8,
+  "updated_at": "2026-10-12T10:25:24Z",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -334,6 +334,36 @@
         "creation": "local_browser",
         "is_qualification": false
       }
+    },
+    {
+      "id": "collection-social-skills",
+      "resource_type": "collection",
+      "language": "el",
+      "title": "19 Λεπτά Παιδικά Τραγούδια 🎵 Καλοσύνη, Συναισθήματα, Ενσυναίσθηση, Ομαδικότητα & Ακρόαση",
+      "description": "Συνεχόμενα τραγούδια με στίχους. Παρακάτω βρίσκετε δωρεάν δραστηριότητες, ζωγραφιές και κουίζ για κάθε τραγούδι.",
+      "published_at": "2026-10-12T10:25:24Z",
+      "duration": "PT18M57S",
+      "page_url": "https://dexiotitesmetragoudi.github.io/sylloges/social-skills/",
+      "video_url": "https://www.youtube.com/watch?v=TcB3j_L3j18",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/sylloges/social-skills/video.jpg",
+      "downloads": [],
+      "quiz_url": null,
+      "certificate": null,
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "skill": "Κοινωνικές και συναισθηματικές δεξιότητες",
+      "activity_prompt": null,
+      "discussion_prompts": [],
+      "lesson": null,
+      "included_resources": [
+        "https://dexiotitesmetragoudi.github.io/tragoudia/i-kalosyni-lampei/",
+        "https://dexiotitesmetragoudi.github.io/tragoudia/ta-synaisthimata-mou/",
+        "https://dexiotitesmetragoudi.github.io/tragoudia/mporo-na-se-akouso/",
+        "https://dexiotitesmetragoudi.github.io/tragoudia/mazi-ta-kataferno/",
+        "https://dexiotitesmetragoudi.github.io/tragoudia/se-akouo/"
+      ]
     }
   ]
 }
