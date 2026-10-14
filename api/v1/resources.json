@@ -3,8 +3,8 @@
   "publisher": "Δεξιότητες με Τραγούδι",
   "site_url": "https://dexiotitesmetragoudi.github.io",
   "language": "el",
-  "count": 8,
-  "updated_at": "2026-10-12T10:25:24Z",
+  "count": 9,
+  "updated_at": "2026-10-14T14:00:37+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,50 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "pistevo",
+      "language": "el",
+      "title": "Πιστεύω στον εαυτό μου",
+      "skill": "Αυτοπεποίθηση",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα χαρούμενο τραγούδι για την αυτοπεποίθηση! 💪 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν ότι θάρρος δεν σημαίνει ότι δεν φοβάμαι ποτέ — σημαίνει ότι παίρνω ανάσα, στέκομαι ψηλά και δοκιμάζω! Το «Πιστεύω στον εαυτό μου» είναι ένα τραγούδι για παιδιά που χτίζει αυτοπεποίθηση: η Ρόζα αγχώνεται να πει την ιδέα της μπροστά στην τάξη, η Μία διστάζει να παίξει ένα καινούργιο παιχνίδι — μα βήμα βήμα βρίσκουν το θάρρος τους, κάνουν λάθη, μαθαίνουν και προχωρούν. Με στίχους-καραόκε, για παιδιά 3–8 ετών και τα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-10-14T14:00:37+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/pistevo/",
+      "video_url": "https://www.youtube.com/watch?v=-9tPwspdVyY",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/pistevo/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/pistevo/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/pistevo/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/pistevo/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε τον εαυτό σου να κάνει κάτι για το οποίο είσαι περήφανος/η!",
+      "discussion_prompts": [
+        "Πότε ένιωσες λίγο άγχος αλλά δοκίμασες;",
+        "Τι σε βοηθά να νιώθεις γενναίος/α;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/pistevo/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/pistevo/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "mporo-na-se-akouso",
       "language": "el",
