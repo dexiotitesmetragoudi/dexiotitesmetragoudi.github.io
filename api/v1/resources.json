@@ -3,8 +3,8 @@
   "publisher": "Δεξιότητες με Τραγούδι",
   "site_url": "https://dexiotitesmetragoudi.github.io",
   "language": "el",
-  "count": 9,
-  "updated_at": "2026-10-14T14:00:37+00:00",
+  "count": 16,
+  "updated_at": "2026-11-04T15:00:13+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,312 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "voitheia",
+      "language": "el",
+      "title": "Μπορώ να ζητήσω βοήθεια!",
+      "skill": "Ζητάω βοήθεια",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τραγούδι για το πώς ζητάμε βοήθεια! 🙋 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν να προσπαθούν πρώτα, να παίρνουν ανάσα, να το λένε με λόγια — και να ζητούν βοήθεια όταν δυσκολεύονται. Στο «Μπορώ να Ζητήσω Βοήθεια!» της Λίλης της λύνονται συνέχεια τα κορδόνια, ο Τζέι δεν μπορεί να μετακινήσει μόνος ένα μεγάλο κουτί κι η Ρόζα δεν καταλαβαίνει μια άσκηση — και ζητούν βοήθεια από έναν φίλο, έναν μεγάλο ή τη δασκάλα, και μαθαίνουν κάτι καινούριο. Με στίχους-καραόκε στην οθόνη, για παιδιά 3–8 ετών, στο σπίτι, στο νηπιαγωγείο και στα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-11-04T15:00:13+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/voitheia/",
+      "video_url": "https://www.youtube.com/watch?v=dNSxUr478Go",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/voitheia/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/voitheia/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/voitheia/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/voitheia/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε μια φορά που κάποιος σε βοήθησε να μάθεις κάτι καινούριο!",
+      "discussion_prompts": [
+        "Πότε σε βοήθησε κάποιος να μάθεις κάτι καινούριο;",
+        "Ποιον μπορείς να ρωτήσεις όταν κάτι σε δυσκολεύει;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/voitheia/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/voitheia/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "stamata",
+      "language": "el",
+      "title": "Σταμάτα! Σκέψου! Διάλεξε!",
+      "skill": "Αυτοέλεγχος",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τραγούδι για τον αυτοέλεγχο! ✋ Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν να ΣΤΑΜΑΤΟΥΝ, να παίρνουν ανάσα, να ΣΚΕΦΤΟΝΤΑΙ και να ΔΙΑΛΕΓΟΥΝ τι θα κάνουν — ακόμα κι όταν νιώθουν κάτι δυνατό. Στο «Σταμάτα, Σκέψου, Διάλεξε!» ο Μπάντι ρίχνει τον πύργο του Μαξ, η Μία θέλει ένα μπισκότο αμέσως, κι ένα παιδί μπαίνει μπροστά στον Τζέι στην τσουλήθρα — και κάθε φορά σταματούν, παίρνουν ανάσα και διαλέγουν σωστά. Με στίχους-καραόκε στην οθόνη, για παιδιά 3–8 ετών, στο σπίτι, στο νηπιαγωγείο και στα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-11-01T15:00:27+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamata/",
+      "video_url": "https://www.youtube.com/watch?v=FkeSzHjeU60",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamata/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamata/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamata/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamata/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε μια φορά που σταμάτησες, πήρες ανάσα και διάλεξες σωστά!",
+      "discussion_prompts": [
+        "Πότε σταμάτησες και διάλεξες κάτι καλό;",
+        "Τι μπορείς να κάνεις αντί να φωνάξεις ή να αρπάξεις;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamata/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamata/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "omorfa",
+      "language": "el",
+      "title": "Τα όμορφα θέλουν χρόνο!",
+      "skill": "Υπομονή",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τραγούδι για την υπομονή! 🌱 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν ότι τα όμορφα θέλουν χρόνο: περιμένουμε τη σειρά μας, παίρνουμε μια ανάσα και προχωράμε βήμα βήμα. Στο «Τα όμορφα θέλουν χρόνο» ο Μαξ περιμένει τη σειρά του στην τσουλήθρα, η Λίλη φυτεύει έναν σπόρο με τη γιαγιά Νελ και τον ποτίζει κάθε πρωί μέχρι να ανθίσει ένα κίτρινο λουλούδι, η Ρόζα τελειώνει ένα μεγάλο παζλ κομμάτι κομμάτι — κι όλοι περιμένουν να κρυώσουν τα μπισκότα. Με στίχους-καραόκε στην οθόνη, για παιδιά 3–8 ετών, στο σπίτι, στο νηπιαγωγείο και στα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-10-29T15:00:16+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/omorfa/",
+      "video_url": "https://www.youtube.com/watch?v=RriZHJQdMyM",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/omorfa/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/omorfa/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/omorfa/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/omorfa/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε κάτι που περίμενες — και πώς ένιωσες όταν επιτέλους ήρθε!",
+      "discussion_prompts": [
+        "Για τι περίμενες τελευταία φορά;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/omorfa/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/omorfa/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "sevomai",
+      "language": "el",
+      "title": "Σέβομαι τους άλλους!",
+      "skill": "Σεβασμός",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τραγούδι για τον σεβασμό! 💚 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν πώς φαίνεται ο σεβασμός κάθε μέρα: ακούμε όταν μιλάει ο άλλος, περιμένουμε τη σειρά μας, ρωτάμε πριν πάρουμε κάτι και αφήνουμε χώρο σε όποιον τον χρειάζεται. Στο «Σέβομαι τους άλλους!» ο Μαξ περιμένει τη σειρά του για να πει την ιδέα του, η Λίλη ρωτά πριν πάρει το λαμπερό στυλό της Ρόζας — και λέει «εντάξει» όταν η Ρόζα απαντά «όχι ακόμα» — κι οι φίλοι αφήνουν στον Τζέι λίγο χώρο. Με στίχους-καραόκε στην οθόνη, για παιδιά 3–8 ετών, στο σπίτι, στο νηπιαγωγείο και στα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-10-26T15:00:22+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/sevomai/",
+      "video_url": "https://www.youtube.com/watch?v=m-rN0BB-YdM",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/sevomai/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/sevomai/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/sevomai/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/sevomai/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε μια φορά που άκουσες, περίμενες τη σειρά σου ή ρώτησες πριν πάρεις κάτι.",
+      "discussion_prompts": [
+        "Πώς δείχνω σε κάποιον ότι τον ακούω;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/sevomai/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/sevomai/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "filoi",
+      "language": "el",
+      "title": "Γι' αυτό είναι οι φίλοι!",
+      "skill": "Φιλία",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τραγούδι για τη φιλία! 💛 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν τι κάνουν οι καλοί φίλοι: μοιράζονται, βοηθούν, ακούν, χαίρονται ο ένας για τον άλλον — και παίζουν με τη σειρά! Το «Γι' αυτό είναι οι φίλοι!» είναι ένα τραγούδι για παιδιά για τη φιλία: ο Μαξ κάνει χώρο για τη Ρόζα, ο Τζέι μοιράζεται τις μπογιές του με τη Λίλη, όλοι τρέχουν να βοηθήσουν όταν η Ρόζα σκοντάφτει, κι όταν ο Μαξ κι ο Τζέι θέλουν άλλο παιχνίδι ο καθένας, η Μία λέει «Ας παίξουμε πρώτα το ένα και μετά το άλλο!». Με στίχους-καραόκε, για παιδιά 3–8 ετών και τα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-10-23T14:00:31+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/filoi/",
+      "video_url": "https://www.youtube.com/watch?v=T7vZpSf8Vq4",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/filoi/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/filoi/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/filoi/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/filoi/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε εσένα και τον φίλο σου να κάνετε κάτι ωραίο μαζί!",
+      "discussion_prompts": [
+        "Τι κάνει κάποιον καλό φίλο;",
+        "Τι κάνουμε όταν θέλουμε άλλο παιχνίδι από τον φίλο μας;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/filoi/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/filoi/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "pes-to",
+      "language": "el",
+      "title": "Πες το με λόγια",
+      "skill": "Επικοινωνία",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τραγούδι για την επικοινωνία! 💬 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν να λένε με λόγια πώς νιώθουν, να ζητούν αυτό που χρειάζονται — και να ακούν κι εκείνα! Το «Πες το με λόγια» είναι ένα τραγούδι για παιδιά για την επικοινωνία: όταν ο Τζέι παίρνει το μπλε τουβλάκι, η Μία δεν φωνάζει — παίρνει ανάσα και το λέει ήρεμα. Όταν η Ρόζα ντρέπεται να παίξει, ρωτά απλά «Μπορώ να παίξω κι εγώ;» και όταν δεν καταλαβαίνει τους κανόνες, κάνει μια ερώτηση. Με στίχους-καραόκε, για παιδιά 3–8 ετών και τα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-10-20T14:00:26+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/pes-to/",
+      "video_url": "https://www.youtube.com/watch?v=d18MlJgZ18A",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/pes-to/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/pes-to/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/pes-to/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/pes-to/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε μια φορά που είπες με λόγια πώς νιώθεις ή τι χρειάζεσαι.",
+      "discussion_prompts": [
+        "Τι μπορείς να πεις όταν κάποιος παίρνει το παιχνίδι σου;",
+        "Πώς ρωτάμε αν μπορούμε να παίξουμε;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/pes-to/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/pes-to/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
+    {
+      "id": "stamato",
+      "language": "el",
+      "title": "Σταματώ",
+      "skill": "Διαχείριση θυμού",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τραγούδι για τον θυμό και την ηρεμία! 💚 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι. Ο Μαξ μαθαίνει τι να κάνει όταν θυμώνει: ΣΤΑΜΑΤΩ, ΑΝΑΠΝΕΩ, ΣΚΕΦΤΟΜΑΙ — και ΕΠΙΛΕΓΩ! Το «Σταματώ» είναι ένα τραγούδι για παιδιά για τη διαχείριση του θυμού: όταν κάποιος ρίχνει κατά λάθος τον πύργο του Μαξ και όταν ο Τζέι κρατά τον κόκκινο μαρκαδόρο, ο Μαξ νιώθει μεγάλο θυμό — μα μαθαίνει να σταματά, να παίρνει αργή ανάσα, να ονομάζει αυτό που νιώθει και να μιλά αντί να αρπάζει. Με στίχους-καραόκε, για παιδιά 3–8 ετών και τα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-10-17T14:00:05+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamato/",
+      "video_url": "https://www.youtube.com/watch?v=VmM_iixABWg",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamato/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamato/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamato/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamato/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε τι σε βοηθά να ηρεμήσεις: μια βαθιά ανάσα, μια αγκαλιά, μια ήσυχη γωνιά…",
+      "discussion_prompts": [
+        "Πώς νιώθει το σώμα σου όταν θυμώνεις;",
+        "Τι σε βοηθά να ηρεμήσεις;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamato/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/stamato/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "pistevo",
       "language": "el",
