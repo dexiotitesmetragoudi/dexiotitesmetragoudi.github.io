@@ -3,8 +3,8 @@
   "publisher": "Δεξιότητες με Τραγούδι",
   "site_url": "https://dexiotitesmetragoudi.github.io",
   "language": "el",
-  "count": 16,
-  "updated_at": "2026-11-04T15:00:13+00:00",
+  "count": 17,
+  "updated_at": "2026-11-07T15:00:02+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,50 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "syzitisi",
+      "language": "el",
+      "title": "Ας το συζητήσουμε!",
+      "skill": "Λύνω διαφωνίες",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τραγούδι για το πώς λύνουμε τις διαφωνίες! 💬 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζα και τον σκυλάκο Μπάντι, που μαθαίνουν να ΣΤΑΜΑΤΟΥΝ, να ΑΚΟΥΝ και να ΤΟ ΣΥΖΗΤΟΥΝ — και να βρίσκουν μια λύση που αρέσει σε όλους. Στο «Ας το Συζητήσουμε!» ο Μαξ κι ο Τζέι θέλουν το ίδιο κόκκινο φορτηγάκι, κι η Ρόζα με τη Λίλη θέλουν διαφορετικό παιχνίδι — αντί να αρπάξουν ή να φωνάξουν, λένε τι χρειάζονται, ακούνε ο ένας τον άλλον και βρίσκουν ένα δίκαιο σχέδιο. Με στίχους-καραόκε στην οθόνη, για παιδιά 3–8 ετών, στο σπίτι, στο νηπιαγωγείο και στα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-11-07T15:00:02+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/syzitisi/",
+      "video_url": "https://www.youtube.com/watch?v=93mwC2Dv6-0",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/syzitisi/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/syzitisi/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/syzitisi/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/syzitisi/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε δύο φίλους που ήθελαν διαφορετικά πράγματα — και τη δίκαιη λύση που βρήκαν!",
+      "discussion_prompts": [
+        "Τι κάνεις όταν εσύ κι ένας φίλος θέλετε το ίδιο παιχνίδι;",
+        "Πώς βρήκαν ο Μαξ κι ο Τζέι μια δίκαιη λύση;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/syzitisi/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/syzitisi/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "voitheia",
       "language": "el",
