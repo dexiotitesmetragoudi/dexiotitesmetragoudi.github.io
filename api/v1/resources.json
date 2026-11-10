@@ -3,8 +3,8 @@
   "publisher": "Δεξιότητες με Τραγούδι",
   "site_url": "https://dexiotitesmetragoudi.github.io",
   "language": "el",
-  "count": 17,
-  "updated_at": "2026-11-07T15:00:02+00:00",
+  "count": 18,
+  "updated_at": "2026-11-10T15:00:25+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,50 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "to-meros-mou",
+      "language": "el",
+      "title": "Κάνω κι εγώ το μέρος μου!",
+      "skill": "Υπευθυνότητα",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τραγούδι για την υπευθυνότητα! ⭐ Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζι και τον σκυλάκο Μπάντι, που μαζεύουν τα παιχνίδια τους, ετοιμάζουν την τσάντα τους, καθαρίζουν όλοι μαζί την τάξη — και διορθώνουν ένα μικρό λάθος όταν συμβεί. Στο «Κάνω κι εγώ το μέρος μου!» ο Μαξ μαζεύει τα τουβλάκια του πριν βγει στην αυλή, η Μία ελέγχει την τσάντα της, όλη η τάξη μαζεύει μαζί τις μπογιές, κι όταν ο Τζέι ρίχνει το νερό, το σκουπίζει μόνος του. Με στίχους-καραόκε στην οθόνη, για παιδιά 3–8 ετών, στο σπίτι, στο νηπιαγωγείο και στα Εργαστήρια Δεξιοτήτων.",
+      "published_at": "2026-11-10T15:00:25+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/to-meros-mou/",
+      "video_url": "https://www.youtube.com/watch?v=YK7aPR5oIVQ",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/to-meros-mou/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/to-meros-mou/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/to-meros-mou/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/to-meros-mou/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε μια μικρή δουλειά που κάνεις στο σπίτι — όπως να μαζεύεις τα παιχνίδια σου ή να ταΐζεις ένα ζωάκι!",
+      "discussion_prompts": [
+        "Ποια μικρή δουλειά μπορείς να κάνεις κάθε μέρα στο σπίτι;",
+        "Τι έκανε ο Τζέι όταν χύθηκε το νερό;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/to-meros-mou/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/to-meros-mou/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "syzitisi",
       "language": "el",
