@@ -3,8 +3,8 @@
   "publisher": "Δεξιότητες με Τραγούδι",
   "site_url": "https://dexiotitesmetragoudi.github.io",
   "language": "el",
-  "count": 18,
-  "updated_at": "2026-11-10T15:00:25+00:00",
+  "count": 19,
+  "updated_at": "2026-11-13T15:00:37+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,51 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "ta-schedia",
+      "language": "el",
+      "title": "Τα Σχέδια Αλλάζουν!",
+      "skill": "Ευελιξία",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τραγούδι για την ευελιξία! 🌈 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλη, τη Ρόζι και τον σκυλάκο Μπάντι: η βροχή χαλάει τη βόλτα, το μωβ χρώμα τελειώνει, η πίστα σπάει — κι εκείνοι παίρνουν ανάσα, κοιτάζουν γύρω και βρίσκουν άλλο τρόπο.",
+      "published_at": "2026-11-13T15:00:37+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-schedia/",
+      "video_url": "https://www.youtube.com/watch?v=rjTr9I4ageM",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-schedia/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-schedia/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-schedia/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-schedia/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε μια φορά που άλλαξε το σχέδιό σου — και το νέο σχέδιο που βρήκες!",
+      "discussion_prompts": [
+        "Τι παρατήρησες στο τραγούδι;",
+        "Πώς ένιωσαν οι φίλοι;",
+        "Πού μπορούμε να εξασκήσουμε αυτή τη δεξιότητα στο σπίτι;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-schedia/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/ta-schedia/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "to-meros-mou",
       "language": "el",
