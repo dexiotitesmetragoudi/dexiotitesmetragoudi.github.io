@@ -3,8 +3,8 @@
   "publisher": "Δεξιότητες με Τραγούδι",
   "site_url": "https://dexiotitesmetragoudi.github.io",
   "language": "el",
-  "count": 19,
-  "updated_at": "2026-11-13T15:00:37+00:00",
+  "count": 20,
+  "updated_at": "2026-11-16T15:00:37+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,52 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "skepso-skepso-skepso",
+      "language": "el",
+      "title": "Σκέψου, Σκέψου, Σκέψου",
+      "skill": "Κριτική σκέψη",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Σκέψου, σκέψου, σκέψου! 🔍 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλι, τη Ρόζι και τον Μπάντι και μάθετε να κοιτάζετε προσεκτικά, να κάνετε ερωτήσεις, να συγκρίνετε ιδέες και να ελέγχετε τα στοιχεία πριν αποφασίσετε. Ο Μαξ συγκρίνει τρία κουτιά για να βρει ποιο χωράει το παιχνίδι. Η Ρόζι δοκιμάζει αν τα φυτά χρειάζονται φως. Ο Τζέι εξετάζει τις πατημασιές αντί να κατηγορήσει βιαστικά τον Μπάντι. Κάθε ιστορία δείχνει ότι η κριτική σκέψη δεν σημαίνει πως ξέρουμε όλες τις απαντήσεις — σημαίνει ότι ρωτάμε, ελέγχουμε και μπορούμε να αλλάξουμε γνώμη όταν μαθαίνουμε κάτι νέο. Ιδανικό για παιδιά 3–8 ετών, για το σπίτι, το νηπιαγωγείο, το δημοτικό και τα Εργαστήρια Δεξιοτήτων. Οι στίχοι καραόκε εμφανίζονται στην οθόνη.",
+      "published_at": "2026-11-16T15:00:37+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/skepso-skepso-skepso/",
+      "video_url": "https://www.youtube.com/watch?v=1Eep1hoC8u4",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/skepso-skepso-skepso/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/skepso-skepso-skepso/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/skepso-skepso-skepso/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/skepso-skepso-skepso/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε ένα μυστήριο και πρόσθεσε τρία στοιχεία που θα σε βοηθήσουν να το λύσεις!",
+      "discussion_prompts": [
+        "Πώς διάλεξε ο Μαξ το σωστό κουτί;",
+        "Τι έκανε η Ρόζι αντί να μαντέψει;",
+        "Γιατί οι πατημασιές δεν ήταν του Μπάντι;",
+        "Πότε έμαθες κάτι που σε έκανε να αλλάξεις γνώμη;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/skepso-skepso-skepso/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/skepso-skepso-skepso/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "ta-schedia",
       "language": "el",
