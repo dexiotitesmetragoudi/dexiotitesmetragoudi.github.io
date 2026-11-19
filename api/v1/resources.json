@@ -3,8 +3,8 @@
   "publisher": "Δεξιότητες με Τραγούδι",
   "site_url": "https://dexiotitesmetragoudi.github.io",
   "language": "el",
-  "count": 20,
-  "updated_at": "2026-11-16T15:00:37+00:00",
+  "count": 21,
+  "updated_at": "2026-11-19T15:00:32+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,50 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "fantasou-ti-boroume-na-ftiaksoume",
+      "language": "el",
+      "title": "Φαντάσου Τι Μπορούμε να Φτιάξουμε",
+      "skill": "Δημιουργικότητα",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα απλό κουτί μπορεί να γίνει πύραυλος, κάστρο ή ρομπότ! 🚀 Τραγουδήστε με τον Μαξ, τη Μία, τον Τζέι, τη Λίλι, τη Ρόζι και τον Μπάντι και ανακαλύψτε τη χαρά της φαντασίας και της δημιουργίας. Για παιδιά 3–8 ετών, στο σπίτι και στην τάξη. Με στίχους καραόκε στην οθόνη.",
+      "published_at": "2026-11-19T15:00:32+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/fantasou-ti-boroume-na-ftiaksoume/",
+      "video_url": "https://www.youtube.com/watch?v=wPbOF4PggN4",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/fantasou-ti-boroume-na-ftiaksoume/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/fantasou-ti-boroume-na-ftiaksoume/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/fantasou-ti-boroume-na-ftiaksoume/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/fantasou-ti-boroume-na-ftiaksoume/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε τρία διαφορετικά πράγματα που μπορείς να φτιάξεις με ένα χαρτόκουτο!",
+      "discussion_prompts": [
+        "Τι μπορούμε να φτιάξουμε με ένα κουτί και έναν σωλήνα;",
+        "Μπορούμε να ενώσουμε δύο διαφορετικές ιδέες;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/fantasou-ti-boroume-na-ftiaksoume/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/fantasou-ti-boroume-na-ftiaksoume/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "skepso-skepso-skepso",
       "language": "el",
