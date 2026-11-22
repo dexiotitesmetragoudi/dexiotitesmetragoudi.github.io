@@ -3,8 +3,8 @@
   "publisher": "Δεξιότητες με Τραγούδι",
   "site_url": "https://dexiotitesmetragoudi.github.io",
   "language": "el",
-  "count": 21,
-  "updated_at": "2026-11-19T15:00:32+00:00",
+  "count": 22,
+  "updated_at": "2026-11-22T15:00:39+00:00",
   "usage": {
     "cost": "free",
     "stated_scope": "home_and_classroom_use",
@@ -20,6 +20,51 @@
     "accepts_child_personal_data": false
   },
   "resources": [
+    {
+      "id": "otan-moirazomaste-chairomaste",
+      "language": "el",
+      "title": "Όταν Μοιραζόμαστε, Χαιρόμαστε",
+      "skill": "Μοίρασμα & Ευγενικά Όρια",
+      "age_range": {
+        "min": 3,
+        "max": 8
+      },
+      "description": "Ένα τραγούδι για το μοίρασμα, τη σειρά και τον σεβασμό όταν ο φίλος μας παίζει ακόμα. Δραστηριότητες, ζωγραφιές, κουίζ και πτυχίο θα εμφανιστούν μαζί με το βίντεο.",
+      "published_at": "2026-11-22T15:00:39+00:00",
+      "page_url": "https://dexiotitesmetragoudi.github.io/tragoudia/otan-moirazomaste-chairomaste/",
+      "video_url": "https://www.youtube.com/watch?v=UeVmQmt8Zu8",
+      "thumbnail_url": "https://dexiotitesmetragoudi.github.io/tragoudia/otan-moirazomaste-chairomaste/video.jpg",
+      "downloads": [
+        {
+          "type": "lyrics",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/otan-moirazomaste-chairomaste/lyrics.pdf"
+        },
+        {
+          "type": "activity_sheet",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/otan-moirazomaste-chairomaste/activity-sheet.pdf"
+        },
+        {
+          "type": "coloring_pages",
+          "format": "application/pdf",
+          "url": "https://dexiotitesmetragoudi.github.io/tragoudia/otan-moirazomaste-chairomaste/coloring-pages.pdf"
+        }
+      ],
+      "activity_prompt": "Ζωγράφισε δύο φίλους που βρίσκουν έναν ευγενικό τρόπο να μοιραστούν ή να πάρουν σειρά.",
+      "discussion_prompts": [
+        "Τι μπορείς να προσφέρεις σε έναν φίλο;",
+        "Τι λες όταν παίζεις ακόμα με ένα παιχνίδι;",
+        "Πώς βλέπουν πέντε φίλοι ένα βιβλίο;"
+      ],
+      "lesson": null,
+      "quiz_url": "https://dexiotitesmetragoudi.github.io/tragoudia/otan-moirazomaste-chairomaste/#quiz",
+      "certificate": {
+        "url": "https://dexiotitesmetragoudi.github.io/tragoudia/otan-moirazomaste-chairomaste/#quiz",
+        "creation": "local_browser",
+        "is_qualification": false
+      }
+    },
     {
       "id": "fantasou-ti-boroume-na-ftiaksoume",
       "language": "el",
